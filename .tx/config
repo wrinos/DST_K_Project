@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[DST-K.stringspot_1]
+type = po
+source_file = 02_Eng_pot/strings.pot
+source_lang = en
+file_filter = <lang>/strings.pot
+trans.ko = 03_ko_po/ko.po
